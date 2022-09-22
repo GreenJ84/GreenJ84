@@ -52,7 +52,6 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 ```-->
 
 <!--END_SECTION:waka-->
-<hr/>
 
 <details>
   <summary>:zap: GitHub Streak</summary>
