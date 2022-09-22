@@ -55,11 +55,16 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 <hr/>
 
 <details>
+  <summary>:zap: GitHub Streak</summary>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasszz&" alt="sasszz" />
+</details>
+<hr/>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" />
 </details>
 <br/>
-
 
 <!---
 GreenJ84/GreenJ84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
