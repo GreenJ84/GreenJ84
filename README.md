@@ -55,7 +55,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <details>
   <summary>:zap: GitHub Streak</summary>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasszz&" alt="sasszz" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreenJ84&" alt="GreenJ84" />
 </details>
 <hr/>
 
