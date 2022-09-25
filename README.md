@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @GreenJ84 aka (**Jesse Greenough**)
+<div align='center'>
+<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
+<h1>👋 Hi, I’m <strong>Jesse Greenough</strong></h1>
+<h2>Software Developer from Shoreline, WA</h2>
+</div>
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🌱 I’m currently learning multiple aspects of codings and scripting at [Coding Dojo bootcamp](https://www.codingdojo.com/)
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
@@ -56,14 +60,21 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 <details>
   <summary>:zap: GitHub Streak</summary>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreenJ84&" alt="GreenJ84" />
+
 </details>
 <hr/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" />
+<div align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GreenJ84's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</div>
 </details>
 <br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GreenJ84's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GreenJ84&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 <!---
 GreenJ84/GreenJ84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
