@@ -3,6 +3,8 @@
 <h1>👋 Hi, I’m <strong>Jesse Greenough</strong></h1>
 <h2>Software Developer from Shoreline, WA</h2>
 </div>
+
+
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🌱 I’m currently learning multiple aspects of codings and scripting at [Coding Dojo bootcamp](https://www.codingdojo.com/)
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
