@@ -4,6 +4,7 @@
 <h2>Software Developer from Shoreline, WA</h2>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84" alt="greenj84" /></a> </p>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🌱 I’m currently learning multiple aspects of codings and scripting at [Coding Dojo bootcamp](https://www.codingdojo.com/)
