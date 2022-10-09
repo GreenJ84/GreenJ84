@@ -4,7 +4,7 @@
 <h2>Software Developer from Shoreline, WA</h2>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84" alt="greenj84" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula&title=Commit,PullRequest,Repositories,Issues" alt="greenj84" /></a></p>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🌱 I’m currently learning multiple aspects of codings and scripting at [Coding Dojo bootcamp](https://www.codingdojo.com/)
@@ -69,9 +69,9 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<div align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GreenJ84's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<div>
+<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" /></a>
+<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img alt="GreenJ84's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
 </details>
 <br/>
