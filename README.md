@@ -23,8 +23,9 @@
  * Favorite Avenger? super Hero in general?🦸🏽‍♂️ <br/>
  * Best Starter Pokémon🐉 <br/>
  * favorite Food?🍕 <br/>
- </p>
- <a href="https://github.com/GreenJ84/GreenJ84/issues/1#issuecomment-new">add a comment</a>
+ </p><br/>
+ 
+ ### 📨 <a href="https://github.com/GreenJ84/GreenJ84/issues/1#issuecomment-new">add a comment</a> 📝
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -32,6 +33,7 @@
 | <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:59:52 AM|An Iron Man, Fettuccine Alfredo, Greek Mythology, Sports Playing, APEX slaying, MewTwo loving Crypto Enthusiast myself! (HBAR, QNT, XRP - Haven't heard of them? Do It!!!|
 <!-- /Guestbook -->
 </div> 
+<br/>
 
 ### Connect with me:  
 
