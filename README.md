@@ -13,6 +13,27 @@
 - 📫 How to reach me is by email at: jesse.greenough84@gmail.com
 <br/>
 
+<div align="center">
+<p align="center">
+ * What Crypto's do you think will survive? are best?🪙 <br/>
+ * What do you think everyone should read at least once📖 <br/>
+ * What are your favorite movies/ games/ activities?🎥 <br/>
+ * Favorite Avenger? super Hero in general?🦸🏽‍♂️ <br/>
+ * Best Starter Pokémon🐉 <br/>
+ * favorite Food?🍕 <br/>
+ </p>
+ <a href="https://github.com/GreenJ84/GreenJ84/issues/1#issuecomment-new">add a comment</a>
+
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:33:47 AM|Very Dope README! I shall exploit!|
+| <a href="https://github.com/jrollman123"><img width="24" src="https://avatars.githubusercontent.com/u/62147392?s=24&u=3e6b84dc58b7ba1427c87af94db834620e86e54b&v=4" alt="jrollman123" /> jrollman123</a> |9/22/2022, 7:28:05 PM|Bronze Age Collapse is best lore|
+| <a href="https://github.com/coren-frankel"><img width="24" src="https://avatars.githubusercontent.com/u/104476731?s=24&v=4" alt="coren-frankel" /> coren-frankel</a> |9/18/2022, 9:12:51 PM|I enjoy screaming "WAAAGH!"|
+| <a href="https://github.com/m-smith15"><img width="24" src="https://avatars.githubusercontent.com/u/106689709?s=24&u=101ed4b09f431bdca229b3270150f50eac40d875&v=4" alt="m-smith15" /> m-smith15</a> |9/4/2022, 9:15:02 PM|Testing this out!|
+<!-- /Guestbook -->
+</div> 
+
 ### Connect with me:  
 
 [<img align="left" alt="Twitter" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/White_King84)
