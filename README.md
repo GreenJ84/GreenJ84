@@ -37,7 +37,6 @@
 <img title='MySQL' align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img title='MongoDB' align="left" alt="MongoDB" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" /><br/><br/>
 
-
 #### Tools:  
 
 <img title='VS Code' align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -46,6 +45,34 @@
 <img title='npm' align="left" alt="npm" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img title='nginx' align="left" alt="nginx" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 <img title='GitHub' align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /><br/><br/>
+<hr/>
+
+### Projects
+
+###### Single Page Apps
+
+- [EasyBay](https://github.com/GreenJ84/EasyBay#easybay)
+- [Weather Forecast App](https://github.com/GreenJ84/Weather-Forecast-App#-weather-forecast-)
+- [My Portfolio](http://greenj84.github.io/)
+
+###### MERN
+
+- [Pet Shelter](https://github.com/GreenJ84/Pet_Shelter#pet-shelter)
+- [Pirate Crew](https://github.com/GreenJ84/Pirate_Crew#-pirate-crew-)
+- [Adventure Connect](https://github.com/czmud/adventureConnect#-adventure-connect-)
+
+###### Java
+
+- [Green Exchange](https://github.com/GreenJ84/Green_Exhange#green_exhange)
+- [Community Center](https://github.com/GreenJ84/Community_Class_Center#community_class_center)
+- [Project Manager]()
+
+###### Python
+
+- [Horoscopes](https://github.com/GreenJ84/Horoscopes#-horoscopes-)
+- [Pie Derby](https://github.com/GreenJ84/Pie_Derby#pie-derby)
+- []
+
 <hr/>
 
 <!--📊 **Weekly development breakdown**-->
