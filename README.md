@@ -7,6 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula&title=Commit,PullRequest,Repositories,Issues" alt="greenj84" /></a></p>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
+- 🧠 My personality type is <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ
+
+</a> (Introverted, Intuitive, Thinking, Judging traits) <a href="https://www.16personalities.com/free-personality-test target="_blank">What's yours? </a>
 - 🌱 I’m currently learning multiple aspects of codings and scripting at [Coding Dojo bootcamp](https://www.codingdojo.com/)
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
 - 💪🏼 2022-2023 Goals: Learn and work with Web3 development
