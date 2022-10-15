@@ -4,8 +4,6 @@
 <h2>Software Developer from Shoreline, WA</h2>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula&title=Commit,PullRequest,Repositories,Issues" alt="greenj84" /></a></p>
-
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) -> <a href="https://www.16personalities.com/free-personality-test" target="_blank">What's yours?</a>
                                                                               
@@ -13,12 +11,19 @@
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
 - 💪🏼 2022-2023 Goals: Learn and work with Web3 development
 - 📫 How to reach me is by email at: jesse.greenough84@gmail.com
+<br/>
+
 ### Connect with me:  
 
-[<img align="left" alt="Twitter" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/White_King84)
-[<img align="left" alt="Instagram" width="34px" src="https://imgs.search.brave.com/9K-t7GrOjqoaCI1fF5bQ0d2vp87_TWwNqjJ4z6hVoto/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/WmlyZ1FFNXByOGU3/aHRRV293SklnSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />](https://www.instagram.com/jesse.greenough/) 
-[<img align="left" alt="Facebook" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://www.facebook.com/jesse.greenough.52/) 
-[<img align="left" alt="Linked In" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)<br/><br/>
+<div align='left'>
+
+[<img alt="Twitter" width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/White_King84)
+[<img alt="Instagram" width="60px" src="https://imgs.search.brave.com/9K-t7GrOjqoaCI1fF5bQ0d2vp87_TWwNqjJ4z6hVoto/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/WmlyZ1FFNXByOGU3/aHRRV293SklnSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />](https://www.instagram.com/jesse.greenough/) 
+[<img alt="Facebook" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://www.facebook.com/jesse.greenough.52/) 
+[<img alt="Linked In" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)
+
+</div>
+<br/><br/>
 <hr/>
 
 <h1 align='center'>Experience Using</h1>
@@ -153,6 +158,8 @@ I've Deployed with
 </div> 
 <br/><hr/>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula&title=Commit,PullRequest,Repositories,Issues" alt="greenj84" /></a></p>
+
 <!--📊 **Weekly development breakdown**-->
 <!--START_SECTION:waka-->
 
@@ -170,7 +177,6 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreenJ84&" alt="GreenJ84" /></a>
 
 </details>
-<hr/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
