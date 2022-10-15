@@ -27,78 +27,77 @@
 
 Platforms 
 
-![MacOS](https://img.shields.io/badge/-macOS-232F3E?style=plastic&logo=apple)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![MacOS](https://img.shields.io/badge/-macOS-black?style=plastic&logo=apple&logoColor=white&labelColor=grey)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu&logoColor=white&labelColor=grey)
 
 Tools
 
-![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-white?style=plastic&logo=google-chrome)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=plastic&logo=Trello)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-C21325?style=plastic&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman&logoColor=black&labelColor=FF6C37)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-black?style=plastic&logo=google-chrome&logoColor=white&labelColor=grey)
+![Trello](https://img.shields.io/badge/-Trello-black?style=plastic&logo=Trello&logoColor=white&labelColor=grey)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
+![Jest](https://img.shields.io/badge/-jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
+![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
 
 IDEs
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![Eclipse Spring Tool](https://img.shields.io/badge/Spring%20Tool%20Suite%204-silver?style=plastic&logo=spring&logoColor=2B7739&labelColor=6DB33F)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=white&labelColor=grey)
+![Eclipse Spring Tool](https://img.shields.io/badge/Spring%20Tool%20Suite%204-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
+![Vim](https://img.shields.io/badge/VIM-black.svg?style=plastic&logo=vim&logoColor=white&labelColor=grey)
 
 Version Control
 
-![GitHub](https://img.shields.io/badge/-GitHub-232F3E?style=plastic&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white&labelColor=grey)
 
 Languages
 
-![Markdown](https://img.shields.io/badge/-Markdown-E34F26?style=plastic&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?&logo=JavaScript&style=plastic&logoColor=black)
-<img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-ffdd54?style=plastic&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-E34F26?style=plastic&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=white&labelColor=grey)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white&labelColor=grey)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=white&labelColor=grey)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript&style=plastic&logoColor=white&labelColor=grey)
+<img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=white&labelColor=grey)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript&logoColor=white&labelColor=grey)
 
 Template Engines
 
-![JSP](https://img.shields.io/badge/JSP-black?style=plastic&logo=jstl&logoColor=black&labelColor=white)
-![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=black&labelColor=white)
+![JSP](https://img.shields.io/badge/JSP-black?style=plastic&logo=jstl&logoColor=white&labelColor=grey)
+![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=white&labelColor=grey)
 
 
 Frameworks & Libraries
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-121C2D?style=plastic&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material%20UI-017FFF?style=plastic&logo=MUI&labelColor=0A1A29)
-![Flask](https://img.shields.io/badge/-Flask-0B735E?style=plastic&logo=Flask)
-![Spring Tools Suite](https://img.shields.io/badge/-STS-6DB33F?style=plastic&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![React.js](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Node.js](https://img.shields.io/badge/-Node-3b2e5a?style=plastic&logo=node.js)
-![Spring boot](https://img.shields.io/badge/-Spring_Boot-E34F26?style=plastic&logo=springboot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black.svg?style=plastic&logo=bootstrap&logoColor=white&labelColor=grey)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-black?style=plastic&logo=tailwind-css&logoColor=white&labelColor=grey)
+![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=plastic&logo=MUI&logoColor=white&labelColor=grey)
+![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask&logoColor=white&labelColor=grey)
+![Spring Tools Suite](https://img.shields.io/badge/-STS-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
+![Express.js](https://img.shields.io/badge/-Express.js-black.svg?style=plastic&logo=express&logoColor=white&labelColor=grey)
+![React.js](https://img.shields.io/badge/-React-black?style=plastic&logo=react&logoColor=white&labelColor=grey)
+![Spring boot](https://img.shields.io/badge/-Spring_Boot-black?style=plastic&logo=springboot&logoColor=white&labelColor=grey)
 
 Databases
 
-![MySQL](https://img.shields.io/badge/-MySQL-D88700?style=plastic&logo=mysql&logoColor=D88700&labelColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb&logoColor=white&labelColor=grey)
 
 Runtime Environment Tools:
 
-![Nodejs](https://img.shields.io/badge/-node.js-036E02?style=plastic&logo=Node.js&labelColor=black)
-![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/nodemon-black?style=plastic&logo=nodemon&logoColor=black&labelColor=76D04B)
+![Nodejs](https://img.shields.io/badge/-node.js-black?style=plastic&logo=Node.js&logoColor=white&labelColor=grey)
+![NPM](https://img.shields.io/badge/npm-black.svg?style=plastic&logo=npm&logoColor=white&labelColor=grey)
+![Nodemon](https://img.shields.io/badge/nodemon-black?style=plastic&logo=nodemon&logoColor=white&labelColor=grey)
 
 Servlets & Web Servers
 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=%298729.svg&labelColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-grey?style=plastic&logo=apache-tomcat&logoColor=black&labelColor=F8DC75)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=009639&labelColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-black.svg?style=plastic&logo=gunicorn&logoColor=white&labelColor=grey)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-black?style=plastic&logo=apache-tomcat&logoColor=white&labelColor=grey)
+![Nginx](https://img.shields.io/badge/nginx-black.svg?style=plastic&logo=nginx&logoColor=white&labelColor=grey)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=plastic&logo=Apache%20Maven&logoColor=white&labelColor=grey)
 
 I've Deployed with
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=black&labelColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=plastic&logo=amazon-aws&labelColor=232F3E&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/-Vercel-E34F26?style=plastic&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws&logoColor=white&labelColor=grey)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel&logoColor=white&labelColor=grey)
 </div>
 <hr/>
 
