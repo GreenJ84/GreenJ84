@@ -37,17 +37,20 @@ Tools
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
 ![Jest](https://img.shields.io/badge/-jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
 ![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
+![gitignore.io](https://img.shields.io/badge/-gitignore.io-black?style=plastic&logo=gitignore.io&logoColor=white&labelColor=grey)
 
 IDEs
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=white&labelColor=grey)
 ![Eclipse Spring Tool](https://img.shields.io/badge/Spring%20Tool%20Suite%204-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
 ![Vim](https://img.shields.io/badge/VIM-black.svg?style=plastic&logo=vim&logoColor=white&labelColor=grey)
+![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=plastic&logo=Gitpod&logoColor=white&labelColor=grey)
 
 Version Control
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white&labelColor=grey)
+![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=GitKraken&logoColor=white&labelColor=grey)
 
 Languages
 
@@ -57,6 +60,7 @@ Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript&style=plastic&logoColor=white&labelColor=grey)
 <img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=white&labelColor=grey)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript&logoColor=white&labelColor=grey)
+![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
 
 Template Engines
 
