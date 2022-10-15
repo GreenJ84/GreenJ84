@@ -51,14 +51,17 @@ Version Control
 
 Languages
 
+![Markdown](https://img.shields.io/badge/-Markdown-E34F26?style=plastic&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?&logo=JavaScript&style=plastic&logoColor=black)
 <img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-ffdd54?style=plastic&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-E34F26?style=plastic&logo=typescript&logoColor=white)
 
 Template Engines
 
-<img width=44 height=18 alt="JSP" style="background-size:cover;" src="https://logodix.com/logo/2109175.png"/> ![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=black&labelColor=white)
+![JSP](https://img.shields.io/badge/JSP-black?style=plastic&logo=jstl&logoColor=black&labelColor=white)
+![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=black&labelColor=white)
 
 
 Frameworks & Libraries
@@ -67,9 +70,11 @@ Frameworks & Libraries
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-121C2D?style=plastic&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-017FFF?style=plastic&logo=MUI&labelColor=0A1A29)
 ![Flask](https://img.shields.io/badge/-Flask-0B735E?style=plastic&logo=Flask)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+![Spring Tools Suite](https://img.shields.io/badge/-STS-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![React.js](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![Node.js](https://img.shields.io/badge/-Node-3b2e5a?style=plastic&logo=node.js)
+![Spring boot](https://img.shields.io/badge/-Spring_Boot-E34F26?style=plastic&logo=springboot&logoColor=white)
 
 Databases
 
@@ -80,7 +85,6 @@ Runtime Environment Tools:
 
 ![Nodejs](https://img.shields.io/badge/-node.js-036E02?style=plastic&logo=Node.js&labelColor=black)
 ![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=F9DC3e&labelColor=black)
 ![Nodemon](https://img.shields.io/badge/nodemon-black?style=plastic&logo=nodemon&logoColor=black&labelColor=76D04B)
 
 Servlets & Web Servers
@@ -94,6 +98,7 @@ I've Deployed with
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=black&labelColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=plastic&logo=amazon-aws&labelColor=232F3E&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/-Vercel-E34F26?style=plastic&logo=vercel&logoColor=white)
 </div>
 <hr/>
 
