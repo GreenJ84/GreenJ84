@@ -13,28 +13,6 @@
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
 - 💪🏼 2022-2023 Goals: Learn and work with Web3 development
 - 📫 How to reach me is by email at: jesse.greenough84@gmail.com
-<br/>
-
-<div align="center">
-<p align="center">
- * What Crypto's do you think will survive? are best?🪙 <br/>
- * What do you think everyone should read at least once📖 <br/>
- * What are your favorite movies/ games/ activities?🎥 <br/>
- * Favorite Avenger? super Hero in general?🦸🏽‍♂️ <br/>
- * Best Starter Pokémon🐉 <br/>
- * favorite Food?🍕 <br/>
- </p><br/>
- 
- ### 📨 <a href="https://github.com/GreenJ84/GreenJ84/issues/1#issuecomment-new">add a comment</a> 📝
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:59:52 AM|An Iron Man, Fettuccine Alfredo, Greek Mythology, Sports Playing, APEX slaying, MewTwo loving Crypto Enthusiast myself! (HBAR, QNT, XRP - Haven't heard of them? Do It!!!|
-<!-- /Guestbook -->
-</div> 
-<br/>
-
 ### Connect with me:  
 
 [<img align="left" alt="Twitter" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/White_King84)
@@ -43,30 +21,80 @@
 [<img align="left" alt="Linked In" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)<br/><br/>
 <hr/>
 
-### Familiar With:  
+<h1 align='center'>Experience Using</h1>
+<br/>
+<div align='center'>
 
-#### Languages:  
+Platforms 
 
-<img title='Markdown' align="left" alt="Mark Down" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
-<img title='HTML5' align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img title='CSS3' align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img title='JavaScript' align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img title='TypeScript' align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img title='React' align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img title='Node.js' align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img title='Java' align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img title='Python' align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
-<img title='MySQL' align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img title='MongoDB' align="left" alt="MongoDB" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" /><br/><br/>
+![MacOS](https://img.shields.io/badge/-macOS-232F3E?style=plastic&logo=apple)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
-#### Tools:  
+Tools
 
-<img title='VS Code' align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img title='Java Spring' align="left" alt="Java Spring" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
-<img title='Git' align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img title='npm' align="left" alt="npm" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
-<img title='nginx' align="left" alt="nginx" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
-<img title='GitHub' align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /><br/><br/>
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-white?style=plastic&logo=google-chrome)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=plastic&logo=Trello)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-C21325?style=plastic&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman&logoColor=black&labelColor=FF6C37)
+
+IDEs
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Eclipse Spring Tool](https://img.shields.io/badge/Spring%20Tool%20Suite%204-silver?style=plastic&logo=spring&logoColor=2B7739&labelColor=6DB33F)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)
+
+Version Control
+
+![GitHub](https://img.shields.io/badge/-GitHub-232F3E?style=plastic&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+
+Languages
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?&logo=JavaScript&style=plastic&logoColor=black)
+<img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-ffdd54?style=plastic&logo=Python)
+
+Template Engines
+
+<img width=44 height=18 alt="JSP" style="background-size:cover;" src="https://logodix.com/logo/2109175.png"/> ![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=black&labelColor=white)
+
+
+Frameworks & Libraries
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-121C2D?style=plastic&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material%20UI-017FFF?style=plastic&logo=MUI&labelColor=0A1A29)
+![Flask](https://img.shields.io/badge/-Flask-0B735E?style=plastic&logo=Flask)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+
+Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-D88700?style=plastic&logo=mysql&logoColor=D88700&labelColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+
+Runtime Environment Tools:
+
+![Nodejs](https://img.shields.io/badge/-node.js-036E02?style=plastic&logo=Node.js&labelColor=black)
+![NPM](https://img.shields.io/badge/npm-%23000000.svg?style=plastic&logo=npm&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=F9DC3e&labelColor=black)
+![Nodemon](https://img.shields.io/badge/nodemon-black?style=plastic&logo=nodemon&logoColor=black&labelColor=76D04B)
+
+Servlets & Web Servers
+
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=%298729.svg&labelColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-grey?style=plastic&logo=apache-tomcat&logoColor=black&labelColor=F8DC75)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=009639&labelColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
+
+I've Deployed with
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=black&labelColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=plastic&logo=amazon-aws&labelColor=232F3E&logoColor=FF9900)
+</div>
 <hr/>
 
 ### Projects
@@ -96,6 +124,26 @@
 - [Recipes]()
 
 <hr/>
+
+<div align="center">
+<p align="center">
+ * What Crypto's do you think will survive? are best?🪙 <br/>
+ * What do you think everyone should read at least once📖 <br/>
+ * What are your favorite movies/ games/ activities?🎥 <br/>
+ * Favorite Avenger? super Hero in general?🦸🏽‍♂️ <br/>
+ * Best Starter Pokémon🐉 <br/>
+ * favorite Food?🍕 <br/>
+ </p><br/>
+ 
+ ### 📨 <a href="https://github.com/GreenJ84/GreenJ84/issues/1#issuecomment-new">add a comment</a> 📝
+
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:59:52 AM|An Iron Man, Fettuccine Alfredo, Greek Mythology, Sports Playing, APEX slaying, MewTwo loving Crypto Enthusiast myself! (HBAR, QNT, XRP - Haven't heard of them? Do It!!!|
+<!-- /Guestbook -->
+</div> 
+<br/><hr/>
 
 <!--📊 **Weekly development breakdown**-->
 <!--START_SECTION:waka-->
