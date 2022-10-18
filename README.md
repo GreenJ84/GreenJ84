@@ -43,6 +43,7 @@ Tools
 ![Jest](https://img.shields.io/badge/-jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
 ![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
 ![gitignore.io](https://img.shields.io/badge/-gitignore.io-black?style=plastic&logo=gitignore.io&logoColor=white&labelColor=grey)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=plastic&logo=typeorm&logoColor=white&labelColor=grey)
 
 IDEs
 
@@ -57,6 +58,11 @@ Version Control
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white&labelColor=grey)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=GitKraken&logoColor=white&labelColor=grey)
 
+Query Languages
+
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=plastic&logo=jquery&logoColor=white&labelColor=grey)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic&logo=graphql&logoColor=white&labelColor=grey)
+
 Languages
 
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=white&labelColor=grey)
@@ -69,7 +75,7 @@ Languages
 
 Template Engines
 
-![JSP](https://img.shields.io/badge/JSP-black?style=plastic&logo=jstl&logoColor=white&labelColor=grey)
+![JSP](https://img.shields.io/badge/-JSP-black?style=plastic&logo=jstl&logoColor=white&labelColor=grey)
 ![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=white&labelColor=grey)
 
 
