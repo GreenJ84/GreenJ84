@@ -5,10 +5,10 @@
 </div>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
-- 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) -> <a href="https://www.16personalities.com/free-personality-test" target="_blank">What's yours?</a>
-                                                                              
-- 🌱 I’m currently learning multiple aspects of codings and scripting at [Coding Dojo bootcamp](https://www.codingdojo.com/)
+- 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
+- 🌴 I graduated [Coding Dojo bootcamp](https://www.codingdojo.com/) with full-stack development knowledge
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
+- 🔥 Currently working with React.js - Node.js - Express.js - GraphQL - TypeORM - MySQL2
 - 💪🏼 2022-2023 Goals: Learn and work with Web3 development
 - 📫 How to reach me is by email at: jesse.greenough84@gmail.com
 <br/>
