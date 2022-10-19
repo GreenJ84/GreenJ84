@@ -93,6 +93,7 @@ Frameworks & Libraries
 Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql&logoColor=white&labelColor=grey)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb&logoColor=white&labelColor=grey)
 
 Runtime Environment Tools:
