@@ -18,7 +18,6 @@
 <div align='left'>
 
 [<img alt="Twitter" width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/GoodGreens84)
-<div>    </div>
 [<img alt="Instagram" width="60px" src="https://imgs.search.brave.com/9K-t7GrOjqoaCI1fF5bQ0d2vp87_TWwNqjJ4z6hVoto/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/WmlyZ1FFNXByOGU3/aHRRV293SklnSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />](https://www.instagram.com/jesse.greenough/) 
 [<img alt="Facebook" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://www.facebook.com/jesse.greenough.52/) 
 [<img alt="Linked In" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)
