@@ -9,7 +9,7 @@
 - 🌴 I graduated [Coding Dojo bootcamp](https://www.codingdojo.com/) with full-stack development knowledge
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
 - 🔥 Currently working with React.js - Node.js - Express.js - GraphQL - TypeORM - MySQL2
-- 💪🏼 2022-2023 Goals: Learn and work with Web3 development
+- 💪🏼 2022-2023 Goals: Learn and work with Web3 development (🔥 Currently learning Solidity for Smart Contract implementation and Hedera SDK for Hashgraph utilization 🔥)
 - 📫 How to reach me is by email at: jesse.greenough84@gmail.com
 <br/>
 
