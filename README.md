@@ -61,6 +61,7 @@ Version Control
 
 Query Languages
 
+![SQL](https://img.shields.io/badge/-SQL-black?style=plastic&logo=sql&logoColor=white&labelColor=grey)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=plastic&logo=jquery&logoColor=white&labelColor=grey)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic&logo=graphql&logoColor=white&labelColor=grey)
 
@@ -72,7 +73,6 @@ Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript&style=plastic&logoColor=white&labelColor=grey)
 <img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=white&labelColor=grey)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript&logoColor=white&labelColor=grey)
-![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
 
 Template Engines
 
@@ -86,11 +86,13 @@ Frameworks & Libraries
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-black?style=plastic&logo=tailwind-css&logoColor=white&labelColor=grey)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=plastic&logo=MUI&logoColor=white&labelColor=grey)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask&logoColor=white&labelColor=grey)
-![Spring Tools Suite](https://img.shields.io/badge/-STS-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
 ![Express.js](https://img.shields.io/badge/-Express.js-black.svg?style=plastic&logo=express&logoColor=white&labelColor=grey)
 ![React.js](https://img.shields.io/badge/-React-black?style=plastic&logo=react&logoColor=white&labelColor=grey)
+![Angular.js](https://img.shields.io/badge/-Angular-black?style=plastic&logo=angular&logoColor=white&labelColor=grey)
 ![Spring boot](https://img.shields.io/badge/-Spring_Boot-black?style=plastic&logo=springboot&logoColor=white&labelColor=grey)
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-black?style=plastic&logo=apolloclient&logoColor=white&labelColor=grey)
+![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
+
 
 Databases
 
