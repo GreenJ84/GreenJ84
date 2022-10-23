@@ -2,6 +2,8 @@
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
 <h1>👋 Hi, I’m <strong>Jesse Greenough</strong></h1>
 <h2>Software Developer from Shoreline, WA</h2>
+
+GitHub hosted Portofio site [here](http://greenj84.github.io/)
 </div>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
