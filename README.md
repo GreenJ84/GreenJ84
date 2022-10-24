@@ -118,7 +118,7 @@ Servlets & Web Servers
 I've Deployed with
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=plastic&logo=amazon-aws&logoColor=white&labelColor=grey)
+![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=amazon-aws&logoColor=white&labelColor=grey)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel&logoColor=white&labelColor=grey)
 </div>
 <hr/>
