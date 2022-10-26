@@ -11,7 +11,7 @@ GitHub hosted Portofio site [here](http://greenj84.github.io/)
 - 🌴 I graduated [Coding Dojo bootcamp](https://www.codingdojo.com/) with full-stack development knowledge
 - 💞️ I’m looking to collaborate on any projects to earn key experiences with development
 - 🔥 Currently working with TypeScript - React.js - Node.js - Express.js - GraphQL - TypeORM - MySQL2
-- 💪🏼 2022-2023 Goals: Learn and work with Web3 development (🔥 Currently learning Solidity and Truffle for Web3 interaction and Hedera SDK for Hashgraph utilization 🔥)
+- 💪🏼 2022-2023 Goals: Learn and work with Web3 development (🔥 Currently learning Solidity with Truffle and Ganache for Web3 interaction and Hedera SDK for Hashgraph utilization 🔥)
 - 📫 How to reach me is by email at: jesse.greenough84@gmail.com
 <br/>
 
