@@ -34,93 +34,119 @@ GitHub hosted Portofio site [here](http://greenj84.github.io/)
 <br/>
 <div align='center'>
 
-Platforms 
+ ### Languages
 
-![MacOS](https://img.shields.io/badge/-macOS-black?style=plastic&logo=apple&logoColor=white&labelColor=grey)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu&logoColor=white&labelColor=grey)
 
-Tools
-
-![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-black?style=plastic&logo=google-chrome&logoColor=white&labelColor=grey)
-![Trello](https://img.shields.io/badge/-Trello-black?style=plastic&logo=Trello&logoColor=white&labelColor=grey)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
-![Jest](https://img.shields.io/badge/-jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
-![Postman](https://img.shields.io/badge/Postman-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
-![gitignore.io](https://img.shields.io/badge/-gitignore.io-black?style=plastic&logo=gitignore.io&logoColor=white&labelColor=grey)
-![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=plastic&logo=typeorm&logoColor=white&labelColor=grey)
-
-IDEs
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=white&labelColor=grey)
-![Eclipse Spring Tool](https://img.shields.io/badge/Spring%20Tool%20Suite%204-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
-![Vim](https://img.shields.io/badge/VIM-black.svg?style=plastic&logo=vim&logoColor=white&labelColor=grey)
-![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=plastic&logo=Gitpod&logoColor=white&labelColor=grey)
-
-Version Control
-
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white&labelColor=grey)
-![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=GitKraken&logoColor=white&labelColor=grey)
-
-Query Languages
+ ![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=white&labelColor=grey)
+ ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white&labelColor=grey)
+ ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=white&labelColor=grey)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript&style=plastic&logoColor=white&labelColor=grey)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript&logoColor=white&labelColor=grey)
+ <img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> 
+ ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=white&labelColor=grey)
+ ![Solidity](https://img.shields.io/badge/-Solidity-black?style=plastic&logo=solidity&logoColor=white&labelColor=grey)
+ 
+### Query Languages
 
 ![SQL](https://img.shields.io/badge/-SQL-black?style=plastic&logo=sql&logoColor=white&labelColor=grey)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=plastic&logo=jquery&logoColor=white&labelColor=grey)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=plastic&logo=graphql&logoColor=white&labelColor=grey)
 
-Languages
-
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=white&labelColor=grey)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white&labelColor=grey)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=white&labelColor=grey)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=JavaScript&style=plastic&logoColor=white&labelColor=grey)
-<img height=22 alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/> ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python&logoColor=white&labelColor=grey)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript&logoColor=white&labelColor=grey)
-
-Template Engines
-
-![JSP](https://img.shields.io/badge/-JSP-black?style=plastic&logo=jstl&logoColor=white&labelColor=grey)
-![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=white&labelColor=grey)
-
-
-Frameworks & Libraries
+### Frameworks & Libraries
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black.svg?style=plastic&logo=bootstrap&logoColor=white&labelColor=grey)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-black?style=plastic&logo=tailwind-css&logoColor=white&labelColor=grey)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=plastic&logo=MUI&logoColor=white&labelColor=grey)
-![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask&logoColor=white&labelColor=grey)
-![Express.js](https://img.shields.io/badge/-Express.js-black.svg?style=plastic&logo=express&logoColor=white&labelColor=grey)
 ![React.js](https://img.shields.io/badge/-React-black?style=plastic&logo=react&logoColor=white&labelColor=grey)
 ![Angular.js](https://img.shields.io/badge/-Angular-black?style=plastic&logo=angular&logoColor=white&labelColor=grey)
-![Spring boot](https://img.shields.io/badge/-Spring_Boot-black?style=plastic&logo=springboot&logoColor=white&labelColor=grey)
-![Apollo Client](https://img.shields.io/badge/-Apollo_Client-black?style=plastic&logo=apolloclient&logoColor=white&labelColor=grey)
-![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
-
-
-Databases
+![Express.js](https://img.shields.io/badge/-Express.js-black.svg?style=plastic&logo=express&logoColor=white&labelColor=grey)
+![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=Flask&logoColor=white&labelColor=grey)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=plastic&logo=springboot&logoColor=white&labelColor=grey)
+![JSTL](https://img.shields.io/badge/-JSP-black?style=plastic&logo=jstl&logoColor=white&labelColor=grey)
+![Jinja](https://img.shields.io/badge/jinja2-black?style=plastic&logo=jinja&logoColor=white&labelColor=grey)
+![Derea SDk](https://img.shields.io/badge/-HederaSDK-black?style=plastic&logo=hederasdk&logoColor=white&labelColor=grey)
+ 
+### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql&logoColor=white&labelColor=grey)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb&logoColor=white&labelColor=grey)
+ 
+### Version Control
 
-Runtime Environment Tools:
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white&labelColor=grey)
+![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=plastic&logo=GitKraken&logoColor=white&labelColor=grey)
+ 
+### IDEs
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=white&labelColor=grey)
+![Eclipse Spring Tool](https://img.shields.io/badge/Spring%20Tool%20Suite%204-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
+![VIM](https://img.shields.io/badge/VIM-black.svg?style=plastic&logo=vim&logoColor=white&labelColor=grey)
+![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=plastic&logo=Gitpod&logoColor=white&labelColor=grey)
+![Truffle](https://img.shields.io/badge/-Truffle-black?style=plastic&logo=truffle&logoColor=white&labelColor=grey)
+
+### Planning Tools
+ 
+![Trello](https://img.shields.io/badge/-Trello-black?style=plastic&logo=Trello&logoColor=white&labelColor=grey)
+![Notion](https://img.shields.io/badge/-Notion-black?style=plastic&logo=notion&logoColor=white&labelColor=grey)
+![Balsamiq](https://img.shields.io/badge/-Balsamiq-black?style=plastic&logo=balsamiq&logoColor=white&labelColor=grey)
+![MockFLow](https://img.shields.io/badge/-MockFLow-black?style=plastic&logo=MockFlow&logoColor=white&labelColor=grey)
+![Figma](https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=white&labelColor=grey)
+ 
+### Development Tools
+ 
+![gitignore.io](https://img.shields.io/badge/-gitignore.io-black?style=plastic&logo=gitignore.io&logoColor=white&labelColor=grey)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-black?style=plastic&logo=google-chrome&logoColor=white&labelColor=grey)
+![Apollo Client](https://img.shields.io/badge/-Apollo_Client-black?style=plastic&logo=apolloclient&logoColor=white&labelColor=grey)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=plastic&logo=typeorm&logoColor=white&labelColor=grey)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=plastic&logo=ongoose&logoColor=white&labelColor=grey)
+
+### Runtime Tools
 
 ![Nodejs](https://img.shields.io/badge/-node.js-black?style=plastic&logo=Node.js&logoColor=white&labelColor=grey)
-![NPM](https://img.shields.io/badge/npm-black.svg?style=plastic&logo=npm&logoColor=white&labelColor=grey)
+![NPM](https://img.shields.io/badge/-npm-black.svg?style=plastic&logo=npm&logoColor=white&labelColor=grey)
+![Yarn](https://img.shields.io/badge/-yarn-black.svg?style=plastic&logo=yarn&logoColor=white&labelColor=grey)
+![PIP](https://img.shields.io/badge/-pip-black.svg?style=plastic&logo=pip&logoColor=white&labelColor=grey)
 ![Nodemon](https://img.shields.io/badge/nodemon-black?style=plastic&logo=nodemon&logoColor=white&labelColor=grey)
 
-Servlets & Web Servers
+### Testing Tools
+
+![Jest](https://img.shields.io/badge/-jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
+![JUnit](https://img.shields.io/badge/-JUnit-black?style=plastic&logo=junit&logoColor=white&labelColor=grey)
+
+### Tools
+ 
+![AJAX](https://img.shields.io/badge/-AJAX-black?style=plastic&logo=ajax&logoColor=white&labelColor=grey)
+![Axios](https://img.shields.io/badge/-Axios-black?style=plastic&logo=axios&logoColor=white&labelColor=grey)
+![REST Api](https://img.shields.io/badge/-REST_Api-black?style=plastic&logo=restapi&logoColor=white&labelColor=grey)
+![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
+![XML](https://img.shields.io/badge/-XML-black?style=plastic&logo=xml&logoColor=white&labelColor=grey)
+![PostMan](https://img.shields.io/badge/-PostMan-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=plastic&logo=socket.io&logoColor=white&labelColor=grey)
+![RegEx](https://img.shields.io/badge/-RegEx-black?style=plastic&logo=regex&logoColor=white&labelColor=grey)
+![bcrypt](https://img.shields.io/badge/-bcrypt-black?style=plastic&logo=bcrypt&logoColor=white&labelColor=grey)
+![Ganache](https://img.shields.io/badge/-Hanache-black?style=plastic&logo=Ganache&logoColor=white&labelColor=grey)
+ 
+### Servlets & Web Servers
 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-black.svg?style=plastic&logo=gunicorn&logoColor=white&labelColor=grey)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-black?style=plastic&logo=apache-tomcat&logoColor=white&labelColor=grey)
 ![Nginx](https://img.shields.io/badge/nginx-black.svg?style=plastic&logo=nginx&logoColor=white&labelColor=grey)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=plastic&logo=Apache%20Maven&logoColor=white&labelColor=grey)
 
-I've Deployed with
+### I've Deployed with
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=plastic&logo=github&logoColor=white&labelColor=grey)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=amazon-aws&logoColor=white&labelColor=grey)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel&logoColor=white&labelColor=grey)
+ 
+### Platforms 
+
+![MacOS](https://img.shields.io/badge/-macOS-black?style=plastic&logo=apple&logoColor=white&labelColor=grey)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu&logoColor=white&labelColor=grey)
+
 </div>
 <hr/>
 
