@@ -127,7 +127,7 @@ GitHub hosted Portofio site [here](http://greenj84.github.io/)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=plastic&logo=socket.io&logoColor=white&labelColor=grey)
 ![RegEx](https://img.shields.io/badge/-RegEx-black?style=plastic&logo=regex&logoColor=white&labelColor=grey)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-black?style=plastic&logo=bcrypt&logoColor=white&labelColor=grey)
-![Ganache](https://img.shields.io/badge/-Hanache-black?style=plastic&logo=Ganache&logoColor=white&labelColor=grey)
+![Ganache](https://img.shields.io/badge/-Ganache-black?style=plastic&logo=Ganache&logoColor=white&labelColor=grey)
  
 ### Servlets & Web Servers
 
