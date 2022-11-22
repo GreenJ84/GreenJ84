@@ -233,7 +233,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 </details>
 <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GreenJ84's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GreenJ84&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GreenJ84's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GreenJ84&theme=react-dark&radius=16&custom_title=My%20Contributions%20Graph&title_color=2ce114&point=2ce114&area=true" /></a>
 
 
 <!---
