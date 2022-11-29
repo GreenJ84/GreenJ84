@@ -147,38 +147,6 @@ GitHub hosted Portofio site [here](http://greenj84.github.io/)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu&logoColor=white&labelColor=grey)
 
 </div>
-<hr/>
-
-### Projects
-
-###### Single Page Apps
-
-- [EasyBay](https://github.com/GreenJ84/EasyBay#easybay)
-- [Weather Forecast App](https://github.com/GreenJ84/Weather-Forecast-App#-weather-forecast-)
-- [My Portfolio](http://greenj84.github.io/)
-
-###### React-Express-GraphQL
-
-- [ReactQL](https://github.com/GreenJ84/ReactQL/blob/main/README.md#reactql)
-
-
-###### MERN
-
-- [Pet Shelter](https://github.com/GreenJ84/Pet_Shelter#pet-shelter)
-- [Pirate Crew](https://github.com/GreenJ84/Pirate_Crew#-pirate-crew-)
-- [Adventure Connect](https://github.com/czmud/adventureConnect#-adventure-connect-)
-
-###### Java
-
-- [Green Exchange](https://github.com/GreenJ84/Green_Exhange#green_exhange)
-- [Community Center](https://github.com/GreenJ84/Community_Class_Center#community_class_center)
-- [Project Manager]()
-
-###### Python
-
-- [Horoscopes](https://github.com/GreenJ84/Horoscopes#-horoscopes-)
-- [Pie Derby](https://github.com/GreenJ84/Pie_Derby#pie-derby)
-- [Recipes]()
 
 <hr/>
 
