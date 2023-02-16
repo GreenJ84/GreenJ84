@@ -153,7 +153,60 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 
 <hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula&title=Commit,PullRequest,Repositories,Issues" alt="greenj84" /></a></p>
+<details>
+ <summary> 
+   <h3 align='center'> My Project Repos </h3> 
+ </summary>
+ 
+ - Project documentation is in the works
+ - There are more projects on my gitHub that will slowly be added here
+ 
+ <h3 align="center"> 
+  
+  [Tesla GClone](https://github.com/GreenJ84/Tesla_Clone#tesla-gclone) 
+  
+ </h3>
+ 
+ <h3 align="center"> 
+  
+  [My Personal Portfolio](https://github.com/GreenJ84/JesseGreenoughPortfolio#my-personal-portfolio)
+
+ </h3>
+ <h3 align="center"> 
+  
+  [Apollo - GraphQL Series](https://github.com/GreenJ84/GraphQL/blob/main/README.md#apollo-graphql-training) 
+ 
+ </h3>
+ 
+ <h3 align="center"> 
+  
+  [Adventure Connect](https://github.com/GreenJ84/adventureConnect#-adventure-connect-) 
+ 
+ </h3>
+ 
+ <h3 align="center"> 
+  
+  [Next Meetups](https://github.com/GreenJ84/Next_Meetups#next-meetups) 
+ 
+ </h3>
+ 
+ <h3 align="center"> 
+  
+  [Green Exchange](https://github.com/GreenJ84/Green_Exhange#green_exhange) 
+ 
+ </h3>
+ 
+ <h3 align="center"> 
+  
+  [Pie Derby](https://github.com/GreenJ84/Pie_Derby#pie-derby) 
+ 
+ </h3>
+ 
+</details>
+
+<hr/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" /></a></p>
 
 <!--📊 **Weekly development breakdown**-->
 <!--START_SECTION:waka-->
