@@ -8,10 +8,10 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
-- 🌴 I graduated [Coding Dojo bootcamp](https://www.codingdojo.com/) with full-stack development knowledge
-- 💞️ I’m looking to collaborate on any projects to earn key experiences with development
-- 🔥 Currently working with TypeScript - React.js - Node.js - Express.js - GraphQL - TypeORM - MySQL2
-- 💪🏼 2022-2023 Goals: Learn and work with Web3 development (🔥 Currently learning Solidity with Truffle and Ganache for Web3 interaction and Hedera SDK for Hashgraph utilization 🔥)
+- 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022 
+- 💞️ Always open to opportunities for collaboration on projects to earn key experiences with development
+- 🔥 Currently building serverless applications with TypeScript - Node.js - Next.js - MongDB Atlas
+- 💪🏼 2023 Goals: Continue working with Web3 development (🔥 Solidity, HardHat, Truffle, Ganache and Hedera SDK 🔥)
 - 📫 Reach me by email at: jesse.greenough84@gmail.com
 
 ### Connect with me:  
@@ -245,9 +245,9 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
  * What Crypto's do you think will survive? are best?🪙 <br/>
  * What do you think everyone should read at least once📖 <br/>
  * What are your favorite movies/ games/ activities?🎥 <br/>
- * Favorite Avenger? super Hero in general?🦸🏽‍♂️ <br/>
+ * Favorite Avenger? S?uper Hero in general?🦸🏽‍♂️ <br/>
  * Best Starter Pokémon🐉 <br/>
- * favorite Food?🍕 <br/>
+ * Favorite Food?🍕 <br/>
  </p>
  
  <br/>
@@ -258,7 +258,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/m-smith15"><img width="24" src="https://avatars.githubusercontent.com/u/106689709?s=24&u=101ed4b09f431bdca229b3270150f50eac40d875&v=4" alt="m-smith15" /> m-smith15</a> |10/17/2022, 3:16:39 PM|This is awesome!! Best starter Charmander, of course. I mean its not even a debate right?  😃|
-| <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:59:52 AM|An Iron Man, Fettuccine Alfredo, Greek Mythology, Sports Playing, APEX slaying, MewTwo loving Crypto Enthusiast myself! (HBAR, QNT, XRP - Haven't heard of them? Do It!!!|
+| <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:59:52 AM|An Iron Man, Fettuccine Alfredo, Greek Mythology, Sports Playing, APEX slaying, MewTwo loving Crypto Enthusiast myself! (HBAR, QNT, XRP - Haven't heard of them? Do It!!!)|
 <!-- /Guestbook -->
 </div> 
 <!---
