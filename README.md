@@ -222,15 +222,24 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <details>
   <summary>:zap: GitHub Streak</summary>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreenJ84&" alt="GreenJ84" /></a>
+<p align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreenJ84&" alt="GreenJ84" /></a><p/>
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 <div>
-<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" /></a>
-<a align='center' href="https://github.com/anuraghazra/github-readme-stats"><img alt="GreenJ84's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+<br/>
+ <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+ <img style="text-align: center" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" />
+ </a><p/>
+ 
+ <br/>
+ 
+ <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+ <img style="text-align: center" alt="GreenJ84's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+ </a><p/>
 </div>
 </details>
 <br/>
