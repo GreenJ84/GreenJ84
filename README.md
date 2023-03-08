@@ -263,7 +263,7 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 </details>
 
 <details>
-  <summary>:zap: Languages used </summary>
+  <summary>:zap: GitHub Languages Used </summary>
  
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -277,6 +277,27 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465" alt="GreenJ84's Top Languages"/>
+ </picture>
+</a>
+</p>
+
+</details>
+
+<details>
+  <summary>:zap: LeetCode Stats </summary>
+ 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <picture>
+  <source 
+    srcset="https://leetcode-stats.vercel.app/api?username=GreenJ84&theme=dark"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://leetcode-stats.vercel.app/api?username=GreenJ84&theme=Mist"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://leetcode-stats.vercel.app/api?username=GreenJ84&theme=Mist" alt="GreenJ84's LeetCode Stats"/>
  </picture>
 </a>
 </p>
