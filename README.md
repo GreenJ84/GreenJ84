@@ -222,26 +222,67 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <details>
   <summary>:zap: GitHub Streak</summary>
-<p align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GreenJ84&" alt="GreenJ84" /></a><p/>
 
+<p align="center">
+<a href="https://git.io/streak-stats">
+ <picture>
+  <source 
+    srcset="https://streak-stats.demolab.com?user=GreenJ84&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=07161D&border=5BEB5B&stroke=00FFFF&ring=5BEB5B&fire=0EA1EB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52EEFF&sideLabels=52EEFF&dates=FFFFFF"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=GreenJ84&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=EDFFFF&border=5BEB5B&stroke=00FFFF&ring=5BEB5B&fire=0EA1EB&currStreakNum=010101&sideNums=010101&currStreakLabel=52EEFF&sideLabels=52EEFF&dates=010101"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://streak-stats.demolab.com?user=GreenJ84&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=07161D&border=5BEB5B&stroke=00FFFF&ring=5BEB5B&fire=0EA1EB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52EEFF&sideLabels=52EEFF&dates=FFFFFF" alt="GreenJ84 Github Stats"/>
+ </picture>
+</a>
+</p>
+ 
 </details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<div>
-
-<br/>
- <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
- <img style="text-align: center" alt="GreenJ84's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&hide_border=false&count_private=true&theme=radical" />
- </a><p/>
  
- <br/>
- 
- <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
- <img style="text-align: center" alt="GreenJ84's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
- </a><p/>
-</div>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&count_private=true&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&ring_color=5BEB5B"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&count_private=true&bg_color=EDFFFF&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=010101&ring_color=5BEB5B"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&count_private=true&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&ring_color=5BEB5B" alt="GreenJ84's GitHub Stats"/>
+ </picture>
+</a>
+</p>
 </details>
+
+<details>
+  <summary>:zap: Languages used </summary>
+ 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=EDFFFF&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=010101&card_width=465"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465" alt="GreenJ84's Top Languages"/>
+ </picture>
+</a>
+</p>
+
+</details>
+
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GreenJ84's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=GreenJ84&theme=react-dark&radius=16&custom_title=My%20Contributions%20Graph&title_color=2ce114&point=2ce114&area=true" /></a>
