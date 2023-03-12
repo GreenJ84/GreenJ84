@@ -7,7 +7,7 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </div>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
-- 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
+- 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">ENFJ-A</a> (Extroverted, Intuitive, Feeling, Judging, and Assetive traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
 - 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022 
 - 💞️ Always open to opportunities for collaboration on projects to earn key experiences with development
 - 🔥 Currently building a testing suite for a serverless TypeScript - Node.js - Next.js - MongDB Atlas application with Cypress, Jest, and React Testing Library.
