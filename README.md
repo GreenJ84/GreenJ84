@@ -10,7 +10,7 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 - 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> (Introverted, Intuitive, Thinking, Judging traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
 - 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022 
 - 💞️ Always open to opportunities for collaboration on projects to earn key experiences with development
-- 🔥 Currently building serverless applications with TypeScript - Node.js - Next.js - MongDB Atlas
+- 🔥 Currently building a testing suite for a serverless TypeScript - Node.js - Next.js - MongDB Atlas application with Cypress, Jest, and React Testing Library.
 - 💪🏼 2023 Goals: Continue working with Web3 development (🔥 Solidity, HardHat, Truffle, Ganache and Hedera SDK 🔥)
 - 📫 Reach me by email at: jesse.greenough84@gmail.com
 
@@ -28,9 +28,11 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 
 <hr/>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" /></a></p>
+
 <details>
  <summary>
-  <h3 align='center'>  My Skillset</h3>
+   💻 My Skillset
  </summary>
 <div align='center'>
 
@@ -151,11 +153,9 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </div>
 </details>
 
-<hr/>
-
 <details>
  <summary> 
-   <h3 align='center'> My Project Repos </h3> 
+  🔥 My Project Repos 🔥
  </summary>
  
  - Project documentation is in the works
@@ -203,22 +203,6 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
  </h3>
  
 </details>
-
-<hr/>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" /></a></p>
-
-<!--📊 **Weekly development breakdown**-->
-<!--START_SECTION:waka-->
-
-<!--```text
-React   4hr 15 mins         █████████████████████████   60.00 %
-JavaScript 2hr 15min
-TypeScript 1hr
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```-->
-
-<!--END_SECTION:waka-->
 
 <details>
   <summary>:zap: GitHub Streak</summary>
@@ -269,14 +253,14 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465&hide=jupyter%20notebook,c%2B%2B,cython"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=EDFFFF&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=010101&card_width=465"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=EDFFFF&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=010101&card_width=465&hide=jupyter%20notebook,c%2B%2B,cython"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465" alt="GreenJ84's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465&hide=jupyter%20notebook,c%2B%2B,cython" alt="GreenJ84's Top Languages"/>
  </picture>
 </a>
 </p>
