@@ -28,8 +28,6 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 
 <hr/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" /></a></p>
-
 <details>
  <summary>
    💻 My Skillset
@@ -205,86 +203,184 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </details>
 
 <details>
-  <summary>:zap: GitHub Streak</summary>
+  <summary>:zap: GitHub Presence </summary>
 
-<p align="center">
-<a href="https://git.io/streak-stats">
- <picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=GreenJ84&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=07161D&border=5BEB5B&stroke=00FFFF&ring=5BEB5B&fire=0EA1EB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52EEFF&sideLabels=52EEFF&dates=FFFFFF"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=GreenJ84&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=EDFFFF&border=5BEB5B&stroke=00FFFF&ring=5BEB5B&fire=0EA1EB&currStreakNum=010101&sideNums=010101&currStreakLabel=52EEFF&sideLabels=52EEFF&dates=010101"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://streak-stats.demolab.com?user=GreenJ84&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=07161D&border=5BEB5B&stroke=00FFFF&ring=5BEB5B&fire=0EA1EB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52EEFF&sideLabels=52EEFF&dates=FFFFFF" alt="GreenJ84 Github Stats"/>
- </picture>
-</a>
-</p>
- 
-</details>
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" />
+    </a>
+  </p>
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
- 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&count_private=true&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&ring_color=5BEB5B"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&count_private=true&bg_color=EDFFFF&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=010101&ring_color=5BEB5B"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GreenJ84&show_icons=true&count_private=true&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&ring_color=5BEB5B" alt="GreenJ84's GitHub Stats"/>
- </picture>
-</a>
-</p>
-</details>
-
-<details>
-  <summary>:zap: GitHub Languages Used </summary>
- 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465&hide=jupyter%20notebook,c%2B%2B,cython"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=EDFFFF&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=010101&card_width=465&hide=jupyter%20notebook,c%2B%2B,cython"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreenJ84&langs_count=8&layout=compact&bg_color=07161D&title_color=52EEFF&icon_color=0EA1EB&border_radius=8&border_color=5BEB5B&text_color=FFFFFF&card_width=465&hide=jupyter%20notebook,c%2B%2B,cython" alt="GreenJ84's Top Languages"/>
- </picture>
-</a>
-</p>
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/github/streak/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/github/streak/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/github/streak/GreenJ84?theme=greenj_dark" alt="GreenJ84's GitHub Commit Streak"/>
+      </picture>
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/github/stats/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/github/stats/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/github/stats/GreenJ84?theme=greenj_dark" alt="GreenJ84's GitHub profile Stats"/>
+      </picture>
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/github/languages/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/github/languages/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/github/languages/GreenJ84?theme=greenj_dark" alt="GreenJ84's Top Languages Used on GitHub"/>
+      </picture>
+    </a>
+  </p>
 
 </details>
 
 <details>
-  <summary>:zap: LeetCode Stats </summary>
+  <summary>:zap: LeetCode Presence </summary>
+
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/streak/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/streak/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/leetcode/streak/GreenJ84?theme=greenj_dark" alt="GreenJ84's LeetCode Activity Streak"/>
+      </picture>
+    </a>
+  </p>
  
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <picture>
-  <source 
-    srcset="https://leetcode-stats.vercel.app/api?username=GreenJ84&theme=dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://leetcode-stats.vercel.app/api?username=GreenJ84&theme=Mist"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://leetcode-stats.vercel.app/api?username=GreenJ84&theme=Mist" alt="GreenJ84's LeetCode Stats"/>
- </picture>
-</a>
-</p>
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/stats/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/stats/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/leetcode/stats/GreenJ84?theme=greenj_dark" alt="GreenJ84's LeetCode Profile Stats"/>
+      </picture>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/questions_solved/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/questions_solved/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/leetcode/questions_solved/GreenJ84?theme=greenj_dark" alt="GreenJ84's LeetCode question Completion"/>
+      </picture>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/recent-questions/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/recent-questions/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/leetcode/recent-questions/GreenJ84?theme=greenj_dark" alt="GreenJ84's Most Recent questions answered"/>
+      </picture>
+    </a>
+  </p>
+
+</details>
+
+
+<details>
+  <summary>:zap: WakaTime Presence </summary>
+ 
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/wakatime/stats/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/wakatime/stats/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/wakatime/stats/GreenJ84?theme=greenj_dark" alt="GreenJ84's WakaTime Profile Stats"/>
+      </picture>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/wakatime/insights/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/wakatime/insights/GreenJ84?theme=greenj_dark&logo=91FEDD"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/wakatime/insights/GreenJ84?theme=greenj_dark&logo=91FEDD" alt="GreenJ84's WakaTime question Completion"/>
+      </picture>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://greenj-readme-stats.onrender.com/">
+      <picture>
+        <source 
+          srcset="https://greenj-readme-stats.onrender.com/wakatime/languages/GreenJ84?theme=greenj_light"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <source
+          srcset="https://greenj-readme-stats.onrender.com/wakatime/languages/GreenJ84?theme=greenj_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img src="https://greenj-readme-stats.onrender.com/wakatime/languages/GreenJ84?theme=greenj_dark" alt="GreenJ84's Most Recent questions answered"/>
+      </picture>
+    </a>
+  </p>
 
 </details>
 
