@@ -300,14 +300,14 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
     <a href="https://greenj-readme-stats.onrender.com/">
       <picture>
         <source 
-          srcset="https://greenj-readme-stats.onrender.com/leetcode/questions_solved/GreenJ84?theme=greenj_light"
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/completion/GreenJ84?theme=greenj_light"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <source
-          srcset="https://greenj-readme-stats.onrender.com/leetcode/questions_solved/GreenJ84?theme=greenj_dark"
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/completion/GreenJ84?theme=greenj_dark"
           media="(prefers-color-scheme: dark)"
         />
-        <img src="https://greenj-readme-stats.onrender.com/leetcode/questions_solved/GreenJ84?theme=greenj_dark" alt="GreenJ84's LeetCode question Completion"/>
+        <img src="https://greenj-readme-stats.onrender.com/leetcode/completion/GreenJ84?theme=greenj_dark" alt="GreenJ84's LeetCode question Completion"/>
       </picture>
     </a>
   </p>
@@ -316,14 +316,14 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
     <a href="https://greenj-readme-stats.onrender.com/">
       <picture>
         <source 
-          srcset="https://greenj-readme-stats.onrender.com/leetcode/recent-questions/GreenJ84?theme=greenj_light"
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/submission/GreenJ84?theme=greenj_light"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <source
-          srcset="https://greenj-readme-stats.onrender.com/leetcode/recent-questions/GreenJ84?theme=greenj_dark"
+          srcset="https://greenj-readme-stats.onrender.com/leetcode/submission/GreenJ84?theme=greenj_dark"
           media="(prefers-color-scheme: dark)"
         />
-        <img src="https://greenj-readme-stats.onrender.com/leetcode/recent-questions/GreenJ84?theme=greenj_dark" alt="GreenJ84's Most Recent questions answered"/>
+        <img src="https://greenj-readme-stats.onrender.com/leetcode/submission/GreenJ84?theme=greenj_dark" alt="GreenJ84's Most Recent questions answered"/>
       </picture>
     </a>
   </p>
