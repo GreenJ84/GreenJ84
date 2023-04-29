@@ -203,7 +203,7 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </details>
 
 <details>
-  <summary>:zap: GitHub Presence </summary>
+  <summary><h6>:zap: GitHub Presence </h6></summary>
 
   <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -262,7 +262,7 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </details>
 
 <details>
-  <summary>:zap: LeetCode Presence </summary>
+  <summary><h6>:zap: LeetCode Presence </h6></summary>
 
   <p align="center">
     <a href="https://greenj-readme-stats.onrender.com/">
@@ -332,7 +332,7 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 
 
 <details>
-  <summary>:zap: WakaTime Presence </summary>
+ <summary><h6>:zap: WakaTime Presence </h6></summary>
  
   <p align="center">
     <a href="https://greenj-readme-stats.onrender.com/">
