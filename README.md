@@ -29,9 +29,9 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 <hr/>
 
 <details>
- <summary>
+ <summary><h6>
    💻 My Skillset
- </summary>
+ </summary></h6>
 <div align='center'>
 
  ### Languages
@@ -152,12 +152,24 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </details>
 
 <details>
- <summary> 
+ <summary><h6>
   🔥 My Project Repos 🔥
- </summary>
+ </summary></h6>
  
  - Project documentation is in the works
  - There are more projects on my gitHub that will slowly be added here
+
+  <h3 align="center"> 
+  
+  [GitHub ReadMe Stats](https://github.com/GreenJ84/github-readme-stats-typescript#-greenj-readme-statistics-) 
+  
+ </h3>
+
+  <h3 align="center"> 
+  
+  [Rust CLI Buddy](https://github.com/GreenJ84/rust-cli-buddy) 
+  
+ </h3>
  
  <h3 align="center"> 
   
