@@ -158,10 +158,11 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
  
  - Project documentation is in the works
  - There are more projects on my gitHub that will slowly be added here
+ - Site with the '🖥️' link have a deployment that the link leads to
 
   <h3 align="center"> 
   
-  [GitHub ReadMe Stats](https://github.com/GreenJ84/github-readme-stats-typescript#-greenj-readme-statistics-) 
+  [🖥️](https://greenj-readme-stats.onrender.com) [GitHub ReadMe Stats](https://github.com/GreenJ84/github-readme-stats-typescript#-greenj-readme-statistics-) 
   
  </h3>
 
@@ -173,13 +174,13 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
  
  <h3 align="center"> 
   
-  [Tesla GClone](https://github.com/GreenJ84/Tesla_Clone#tesla-gclone) 
+  [🖥️](https://tesla-gclone.vercel.app/) [Tesla GClone](https://github.com/GreenJ84/Tesla_Clone#tesla-gclone) 
   
  </h3>
  
  <h3 align="center"> 
   
-  [My Personal Portfolio](https://github.com/GreenJ84/JesseGreenoughPortfolio#my-personal-portfolio)
+  [🖥️](https://jesse-greenough-portfolio.vercel.app) [My Personal Portfolio](https://github.com/GreenJ84/JesseGreenoughPortfolio#my-personal-portfolio)
 
  </h3>
  <h3 align="center"> 
