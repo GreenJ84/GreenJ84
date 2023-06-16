@@ -1,9 +1,16 @@
 <div align='center'>
-<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
-<h1>👋 Hi, I’m <strong>Jesse Greenough</strong></h1>
+ <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"><br/>
+ <img style="width: 100px; height: 100px;" src="https://github.com/GreenJ84/JesseGreenoughPortfolio/blob/main/public/assets/logo.png">
+<h1>👋 <a href="https://linktr.ee/jessegreenough">Hi, I’m <strong>Jesse Greenough</strong></a></h1>
 <h2>Software Developer from Shoreline, WA</h2>
 
-Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by Vercel.
+[<img alt="Twitter" width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/GoodGreens84)
+[<img alt="Instagram" width="60px" src="https://imgs.search.brave.com/9K-t7GrOjqoaCI1fF5bQ0d2vp87_TWwNqjJ4z6hVoto/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/WmlyZ1FFNXByOGU3/aHRRV293SklnSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />](https://www.instagram.com/jesse.greenough/) 
+[<img alt="Facebook" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://www.facebook.com/jesse.greenough.52/) 
+[<img alt="Linked In" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)
+[<img alt="Stack Overflow" width="60px" src="./devicons/stackOVerflow.png" style="padding-right:10px;" />](https://stackoverflow.com/users/20288562/jesse-l-greenough)
+
+<h3>Visit my <a href="https://jesse-greenough-portfolio.vercel.app">Portofio site</a> hosted by Vercel.</h3>
 </div>
 
 - 👀 I’m interested in computers, sports, people, the outdoors, and having fun
@@ -14,24 +21,15 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 - 💪🏼 2023 Goals: Continue working with Web3 development (🔥 Solidity, HardHat, Truffle, Ganache and Hedera SDK 🔥)
 - 📫 Reach me by email at: jesse.greenough84@gmail.com
 
-### Connect with me:  
 
-<div align='left'>
-
-[<img alt="Twitter" width="60px"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://twitter.com/GoodGreens84)
-[<img alt="Instagram" width="60px" src="https://imgs.search.brave.com/9K-t7GrOjqoaCI1fF5bQ0d2vp87_TWwNqjJ4z6hVoto/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/WmlyZ1FFNXByOGU3/aHRRV293SklnSGFI/YSZwaWQ9QXBp" style="padding-right:10px;" />](https://www.instagram.com/jesse.greenough/) 
-[<img alt="Facebook" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" style="padding-right:10px;" />](https://www.facebook.com/jesse.greenough.52/) 
-[<img alt="Linked In" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)
-[<img alt="Stack Overflow" width="60px" src="./devicons/stackOVerflow.png" style="padding-right:10px;" />](https://stackoverflow.com/users/20288562/jesse-l-greenough)
-
-</div>
 
 <hr/>
 
 <details>
- <summary><h6>
-   💻 My Skillset
- </summary></h6>
+ <summary>
+  <h6> 💻 My Skillset </h6>
+  <p>View all the languages, frameworks, and tech that I have worked with and have an understanding of.</p>
+ </summary>
 <div align='center'>
 
  ### Languages
@@ -88,7 +86,6 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 ### Planning Tools
  
 ![Trello](https://img.shields.io/badge/-Trello-black?style=plastic&logo=Trello&logoColor=white&labelColor=grey)
-![Notion](https://img.shields.io/badge/-Notion-black?style=plastic&logo=notion&logoColor=white&labelColor=grey)
 ![Balsamiq](https://img.shields.io/badge/-Balsamiq-black?style=plastic&logo=balsamiq&logoColor=white&labelColor=grey)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=plastic&logo=Figma&logoColor=white&labelColor=grey)
  
@@ -97,10 +94,10 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 ![gitignore.io](https://img.shields.io/badge/-gitignore.io-black?style=plastic&logo=gitignore.io&logoColor=white&labelColor=grey)
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-black?style=plastic&logo=google-chrome&logoColor=white&labelColor=grey)
 ![Apollo Client](https://img.shields.io/badge/-Apollo_Client-black?style=plastic&logo=apolloclient&logoColor=white&labelColor=grey)
-![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=plastic&logo=typeorm&logoColor=white&labelColor=grey)
 ![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite%204-black?style=plastic&logo=spring&logoColor=white&labelColor=grey)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-black?style=plastic&logo=mysql&logoColor=white&labelColor=grey)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=plastic&logo=ongoose&logoColor=white&labelColor=grey)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=plastic&logo=typeorm&logoColor=white&labelColor=grey)
 
 ### Runtime
 
@@ -108,25 +105,22 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 ![NPM](https://img.shields.io/badge/-npm-black.svg?style=plastic&logo=npm&logoColor=white&labelColor=grey)
 ![Yarn](https://img.shields.io/badge/-yarn-black.svg?style=plastic&logo=yarn&logoColor=white&labelColor=grey)
 ![PIP](https://img.shields.io/badge/-pip-black.svg?style=plastic&logo=pip&logoColor=white&labelColor=grey)
-![Nodemon](https://img.shields.io/badge/nodemon-black?style=plastic&logo=nodemon&logoColor=white&labelColor=grey)
 
 ### Testing
 
-![Jest](https://img.shields.io/badge/-jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=plastic&logo=cypress&logoColor=white&labelColor=grey)
+![Jest](https://img.shields.io/badge/-Jest-black?style=plastic&logo=jest&logoColor=white&labelColor=grey)
 ![Mocha](https://img.shields.io/badge/-Mocha-black?style=plastic&logo=mocha&logoColor=white&labelColor=grey)
 ![Chai](https://img.shields.io/badge/-Chai-black?style=plastic&logo=chai&logoColor=white&labelColor=grey)
 ![JUnit](https://img.shields.io/badge/-JUnit-black?style=plastic&logo=junit5&logoColor=white&labelColor=grey)
 
 ### Tools
  
-![AJAX](https://img.shields.io/badge/-AJAX-black?style=plastic&logo=ajax&logoColor=white&labelColor=grey)
-![Axios](https://img.shields.io/badge/-Axios-black?style=plastic&logo=axios&logoColor=white&labelColor=grey)
 ![REST Api](https://img.shields.io/badge/-REST_Api-black?style=plastic&logo=restapi&logoColor=white&labelColor=grey)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=plastic&logo=JSON&logoColor=white&labelColor=grey)
 ![PostMan](https://img.shields.io/badge/-PostMan-black?style=plastic&logo=postman&logoColor=white&labelColor=grey)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=plastic&logo=socket.io&logoColor=white&labelColor=grey)
 ![RegEx](https://img.shields.io/badge/-RegEx-black?style=plastic&logo=regex&logoColor=white&labelColor=grey)
-![bcrypt](https://img.shields.io/badge/-bcrypt-black?style=plastic&logo=bcrypt&logoColor=white&labelColor=grey)
 ![Ganache](https://img.shields.io/badge/-Ganache-black?style=plastic&logo=Ganache&logoColor=white&labelColor=grey)
  
 ### Servlets & Web Servers
@@ -142,6 +136,7 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=amazon-aws&logoColor=white&labelColor=grey)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel&logoColor=white&labelColor=grey)
 ![Railway](https://img.shields.io/badge/-Railway-black?style=plastic&logo=railway&logoColor=white&labelColor=grey)
+![Render](https://img.shields.io/badge/-Render-black?style=plastic&logo=render&logoColor=white&labelColor=grey)
  
 ### Platforms 
 
@@ -151,10 +146,12 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </div>
 </details>
 
+
 <details>
- <summary><h6>
-  🔥 My Project Repos 🔥
- </summary></h6>
+ <summary>
+  <h6>🔥 My Project Repos 🔥</h6>
+  <p>Check out some of the main projects I have completed</p>
+ </summary>
  
  - Project documentation is in the works
  - There are more projects on my gitHub that will slowly be added here
@@ -216,7 +213,10 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </details>
 
 <details>
-  <summary><h6>:zap: GitHub Presence </h6></summary>
+  <summary>
+   <h4>:zap: GitHub Presence </h4>
+   <p>View My GitHub activity stats</p>
+  </summary>
 
   <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -275,7 +275,10 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 </details>
 
 <details>
-  <summary><h6>:zap: LeetCode Presence </h6></summary>
+  <summary>
+   <h4>:zap: LeetCode Presence </h4>
+   <p>View My LeetCode activity stats</p>
+  </summary>
 
   <p align="center">
     <a href="https://greenj-readme-stats.onrender.com/">
@@ -345,7 +348,10 @@ Visit my [Portofio site](https://jesse-greenough-portfolio.vercel.app) hosted by
 
 
 <details>
- <summary><h6>:zap: WakaTime Presence </h6></summary>
+ <summary>
+  <h4>:zap: WakaTime Presence </h4>
+  <p>View My IDE development activity provided by <a href="https://wakatime.com/">WakaTime</a></p>
+ </summary>
  
   <p align="center">
     <a href="https://greenj-readme-stats.onrender.com/">
