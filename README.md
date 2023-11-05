@@ -1,6 +1,5 @@
-<div align='center'>
- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"><br/>
- <img style="width: 100px; height: 100px;" src="https://github.com/GreenJ84/JesseGreenoughPortfolio/blob/main/public/assets/TrippyFrensNFT_logo.png">
+<div align='center' >
+ <img style="width: 200px; height: 200px;" src="https://res.cloudinary.com/portfolio-g84/image/upload/v1690310921/personal/personal_portrait.jpg">
 <h1>👋 <a href="https://linktr.ee/jessegreenough">Hi, I’m <strong>Jesse Greenough</strong></a></h1>
 <h2>Software Developer from Shoreline, WA</h2>
  
@@ -18,12 +17,19 @@
 - 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022 
 - 💞️ Always open to opportunities for collaboration on projects to earn key experiences with development
 - 🔥 Currently building a testing suite for a serverless TypeScript - Node.js - Next.js - MongDB Atlas application with Cypress, Jest, and React Testing Library.
-- 💪🏼 2023 Goals: Continue working with Web3 development (🔥 Solidity, HardHat, Truffle, Ganache and Hedera SDK 🔥)
+- 💪🏼 2023-2024 Goals:
+ 1) Get a job within the Tech industry!
+ 2) Work with more Java and Rust (strict static typing 😍)
+ 3) Finish up straggling projects 💀
 - 📫 Reach me by email at: jesse.greenough84@gmail.com
 
-
-
 <hr/>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" />
+  </a>
+</p>
 
 <details>
  <summary>
@@ -217,12 +223,6 @@
    <h4>:zap: GitHub Presence </h4>
    <p>View My GitHub activity stats</p>
   </summary>
-
-  <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=greenj84&no-bg=false&theme=dracula" alt="greenj84" />
-    </a>
-  </p>
 
   <p align="center">
     <a href="https://greenj-readme-stats.onrender.com/">
