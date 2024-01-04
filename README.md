@@ -1,5 +1,4 @@
 <div align='center' >
- <img style="width: 200px; height: 200px;" src="https://res.cloudinary.com/portfolio-g84/image/upload/v1690310921/personal/personal_portrait.jpg">
 <h1>👋 <a href="https://linktr.ee/jessegreenough">Hi, I’m <strong>Jesse Greenough</strong></a></h1>
 <h2>Software Developer from Shoreline, WA</h2>
  
@@ -12,15 +11,15 @@
 <h3>Visit my <a href="https://jesse-greenough-portfolio.vercel.app">Portofio site</a> hosted by Vercel.</h3>
 </div>
 
-- 👀 I’m interested in computers, sports, people, the outdoors, and having fun
 - 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">ENFJ-A</a> (Extroverted, Intuitive, Feeling, Judging, and Assetive traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
 - 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022 
 - 💞️ Always open to opportunities for collaboration on projects to earn key experiences with development
-- 🔥 Currently building a testing suite for a serverless TypeScript - Node.js - Next.js - MongDB Atlas application with Cypress, Jest, and React Testing Library.
-- 💪🏼 2023-2024 Goals:
- 1) Get a job within the Tech industry!
- 2) Work with more Java and Rust (strict static typing 😍)
- 3) Finish up straggling projects 💀
+- 🔥 Currently refining my knowledge of Rust as I work on my CLI assistant and trying to reset all my global configuriations to my hearts desire!
+- 💪🏼 2024 Goals:
+  - Finish up straggling projects 💀
+  - Work with Java and Rust for project(strict static typing 😍)
+  - Get a job within the Tech industry! (👀👀 Costco is that you?!? 👀👀)
+- 🖥️ I’m interested in computers, sports, people, the outdoors, and ANIMALSS!! 
 - 📫 Reach me by email at: jesse.greenough84@gmail.com
 
 <hr/>
@@ -406,32 +405,3 @@
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GreenJ84's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GreenJ84&theme=react-dark&radius=16&custom_title=My%20Contributions%20Graph&title_color=2ce114&point=2ce114&area=true" /></a>
-
-<hr/>
-
-<h2 align="center">Talk To Me</h2>
-<div align="center">
-<p align="center">
- * What Crypto's do you think will survive? are best?🪙 <br/>
- * What do you think everyone should read at least once📖 <br/>
- * What are your favorite movies/ games/ activities?🎥 <br/>
- * Favorite Avenger? S?uper Hero in general?🦸🏽‍♂️ <br/>
- * Best Starter Pokémon🐉 <br/>
- * Favorite Food?🍕 <br/>
- </p>
- 
- <br/>
- 
- ### 📨 <a href="https://github.com/GreenJ84/GreenJ84/issues/1#issuecomment-new">add a comment</a> 📝
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/m-smith15"><img width="24" src="https://avatars.githubusercontent.com/u/106689709?s=24&u=101ed4b09f431bdca229b3270150f50eac40d875&v=4" alt="m-smith15" /> m-smith15</a> |10/17/2022, 3:16:39 PM|This is awesome!! Best starter Charmander, of course. I mean its not even a debate right?  😃|
-| <a href="https://github.com/GreenJ84"><img width="24" src="https://avatars.githubusercontent.com/u/102741688?s=24&v=4" alt="GreenJ84" /> GreenJ84</a> |10/12/2022, 5:59:52 AM|An Iron Man, Fettuccine Alfredo, Greek Mythology, Sports Playing, APEX slaying, MewTwo loving Crypto Enthusiast myself! (HBAR, QNT, XRP - Haven't heard of them? Do It!!!)|
-<!-- /Guestbook -->
-</div> 
-<!---
-GreenJ84/GreenJ84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
