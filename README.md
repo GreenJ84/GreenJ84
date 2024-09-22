@@ -8,7 +8,7 @@
 [<img alt="Linked In" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/jesse-greenough-168316138/)
 [<img alt="Stack Overflow" width="60px" src="./devicons/stackOVerflow.png" style="padding-right:10px;" />](https://stackoverflow.com/users/20288562/jesse-l-greenough)
 
-<h3>Visit my <a href="https://jesse-greenough-portfolio.vercel.app">Portofio site</a> hosted by Vercel.</h3>
+<h3>Visit my <a href="https://jesse-greenough-portfolio.vercel.app">Portfolio site</a> hosted by Vercel.</h3>
 </div>
 
 - 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">ENFJ-A</a> (Extroverted, Intuitive, Feeling, Judging, and Assetive traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
