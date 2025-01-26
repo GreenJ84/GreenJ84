@@ -11,16 +11,17 @@
 <h3>Visit my <a href="https://jesse-greenough-portfolio.vercel.app">Portfolio site</a> hosted by Vercel.</h3>
 </div>
 
-- 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">ENFJ-A</a> (Extroverted, Intuitive, Feeling, Judging, and Assetive traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
-- 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022 
+- 🧠 My personality type is: <a href="https://www.16personalities.com/intj-personality" target="_blank">ENFJ-A</a> (Extroverted, Intuitive, Feeling, Judging, and Assertive traits) -> [What's Yours?](https://www.16personalities.com/free-personality-test)
+- 🌴 I graduated the [Coding Dojo](https://www.codingdojo.com/) Full Stack development bootcamp in 2022
+- 📜 I received my Bachelor of Science in Software Engineering from [WGU](www.wgu.edu) in 2024
 - 💞️ Always open to opportunities for collaboration on projects to earn key experiences with development
-- 🔥 Currently refining my knowledge of Rust as I work on my CLI assistant and trying to reset all my global configuriations to my hearts desire!
-- 💪🏼 2024 Goals:
-  - Finish up straggling projects 💀
-  - Work with Java and Rust for project(strict static typing 😍)
-  - Get a job within the Tech industry! (👀👀 Costco is that you?!? 👀👀)
-- 🖥️ I’m interested in computers, sports, people, the outdoors, and ANIMALSS!! 
-- 📫 Reach me by email at: jesse.greenough84@gmail.com
+- 🔥 Currently refining my knowledge of Rust as I work on my CLI assistant and Rustic Messanger!
+- 💪🏼 2025 Goals:
+  - Work to improve projects for my portfolio 💀
+  - Develop with Java and Rust for projects (strict static typing 😍)
+  - Get a job within the Tech industry! (👀👀 Costco IT is that you?!? 👀👀)
+- 🖥️ I’m interested in computers, sports, people, the outdoors, and ANIMALS!! 
+- 📫 Reach me by email at jesse.greenough84@gmail.com
 
 <hr/>
 
@@ -159,7 +160,7 @@
  </summary>
  
  - Project documentation is in the works
- - There are more projects on my gitHub that will slowly be added here
+ - More projects on my GitHub will slowly be added here
  - Site with the '🖥️' link have a deployment that the link leads to
 
   <h3 align="center"> 
